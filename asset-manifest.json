@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/auditapp/static/css/main.e5b317ac.css",
+    "main.js": "/auditapp/static/js/main.41e178ee.js",
+    "static/js/787.128fe25d.chunk.js": "/auditapp/static/js/787.128fe25d.chunk.js",
+    "index.html": "/auditapp/index.html",
+    "main.e5b317ac.css.map": "/auditapp/static/css/main.e5b317ac.css.map",
+    "main.41e178ee.js.map": "/auditapp/static/js/main.41e178ee.js.map",
+    "787.128fe25d.chunk.js.map": "/auditapp/static/js/787.128fe25d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5b317ac.css",
+    "static/js/main.41e178ee.js"
+  ]
+}
